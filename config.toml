@@ -76,6 +76,13 @@ googleAnalytics = "c7442f5794ea2abb71c6ff05dc0b8779"
 	parent = "document"
 	weight = 210
 
+[[menu.main]]
+	name   = "github文档"
+	identifier = "document-github"
+	url    = "/document/github/"
+	parent = "document"
+	weight = 290
+
 [blackfriday]
 	smartypants	= true
 	fractions = true
