@@ -1,8 +1,10 @@
 ---
-date: 2020-02-01T11:00:00+08:00
-title: CloudState介绍
-weight: 100
-description : "CloudState介绍"
+title: "CloudState概述"
+linkTitle: "概述"
+weight: 101
+date: 2021-01-18
+description: >
+  CloudState概述
 ---
 
 ![](images/logo-withtext.png)
@@ -43,5 +45,4 @@ Cloudstate是一种规范，协议和参考实现，用于提供适用于 server
 - CQRS读取侧投影
 
 Cloudstate是多语言的，这意味着服务可以用任何支持gRPC的语言编写，并提供特定于语言的库，这些库允许每种语言的惯用模式。Cloudstate可以单独使用，也可以与Service Mesh结合使用，或者可以预见它将与其他 serverless 技术，例如[Knative](https://knative.dev/)集成在一起。
-
 

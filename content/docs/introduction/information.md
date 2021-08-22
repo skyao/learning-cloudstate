@@ -1,9 +1,6 @@
 ---
 date: 2020-03-15T11:00:00+08:00
 title: CloudState信息
-menu:
-  main:
-    parent: "introduction"
 weight: 101
 description : "CloudState信息"
 ---

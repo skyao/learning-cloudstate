@@ -1,9 +1,6 @@
 ---
 date: 2020-02-01T11:00:00+08:00
 title: gRPC描述符
-menu:
-  main:
-    parent: "document-overview"
 weight: 211
 description : "gRPC描述符"
 ---

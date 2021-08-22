@@ -1,8 +1,10 @@
 ---
-date: 2020-02-01T11:00:00+08:00
-title: CloudState概述
-weight: 210
-description : "CloudState概述"
+title: "CloudState概述"
+linkTitle: "CloudState概述"
+weight: 211
+date: 2021-01-18
+description: >
+  CloudState概述
 ---
 
 > 备注：内容摘录自 CloudState概述：https://cloudstate.io/docs/user/features/index.html
@@ -87,5 +89,4 @@ Cloudstate参考实现可实现Cloudstate [协议](https://cloudstate.io/docs/us
 ### 无冲突的复制数据类型
 
 一种[实体](https://cloudstate.io/docs/user/features/index.html#entity)类型，它使用无冲突的复制数据类型（CRDT）存储其状态，该类型在服务的不同节点之间复制。
-
 

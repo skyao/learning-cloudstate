@@ -1,9 +1,6 @@
 ---
 date: 2020-02-01T11:00:00+08:00
 title: 无冲突的复制数据类型
-menu:
-  main:
-    parent: "document-overview"
 weight: 213
 description : "CloudEvent中的Event sourcing"
 ---

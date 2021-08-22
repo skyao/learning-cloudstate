@@ -1,9 +1,6 @@
 ---
 date: 2020-02-01T11:00:00+08:00
 title: Event sourcing
-menu:
-  main:
-    parent: "document-overview"
 weight: 212
 description : "CloudEvent中的Event sourcing"
 ---
